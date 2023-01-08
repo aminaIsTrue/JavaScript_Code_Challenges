@@ -21,4 +21,4 @@ function testPwd(pwd) {
     : "Your password is not valid, try again!";
 }
 
-console.log(testPwd("A4#c#uzp"));
+console.log(testPwd("A6uzvll3"));
